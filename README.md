@@ -1,5 +1,5 @@
 # gitdemo
-<div>
+<div style="color: aqua">
   This is my first git repo.
 </div>
 <div>
